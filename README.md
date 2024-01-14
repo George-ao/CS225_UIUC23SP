@@ -1,6 +1,6 @@
 CS225 @ ZJUI 23SP 
 -----
-Instructor: [Prof. Volodymyr Kindratenko](https://cs.illinois.edu/about/people/faculty/kindrtnk), [Zuozhu Liu](https://person.zju.edu.cn/en/lzz), [Gaoang Wang](https://person.zju.edu.cn/en/gaoangwang)
+Instructor: Prof.[Volodymyr Kindratenko](https://cs.illinois.edu/about/people/faculty/kindrtnk), [Zuozhu Liu](https://person.zju.edu.cn/en/lzz), [Gaoang Wang](https://person.zju.edu.cn/en/gaoangwang)
 
 
 ACADEMIC INTEGRITY
