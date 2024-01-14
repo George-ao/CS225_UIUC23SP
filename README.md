@@ -1,10 +1,11 @@
-CS225 @ ZJUI 23SP by Yuyi Ao
+CS225 @ ZJUI 23SP 
 -----
 Instructor: Prof. Volodymyr Kindratenko, Zuozhu Liu, Gaoang Wang
 
 
 ACADEMIC INTEGRITY
 -----
+Disclaimer: The code presented here is intended for academic documentation and learning purposes. It is made available for scholarly discussion and educational reference only. Any form of plagiarism or unauthorized use is not allowed. Scholars and students alike are urged to use these materials responsibly and in accordance with the principles of academic integrity.
 Please review the University of Illinois Student Code before starting,
 particularly all subsections of Article 1, Part 4 Academic Integrity and Procedure [here](http://studentcode.illinois.edu/article1_part4_1-401.html).
 
