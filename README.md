@@ -1,4 +1,4 @@
-CS225 @ ZJUI 23SP 
+CS225 @ UIUC 23SP 
 -----
 Instructor: [Prof.Volodymyr Kindratenko](https://cs.illinois.edu/about/people/faculty/kindrtnk), [Prof.Zuozhu Liu](https://person.zju.edu.cn/en/lzz), [Prof.Gaoang Wang](https://person.zju.edu.cn/en/gaoangwang)
 
